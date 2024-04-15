@@ -18,12 +18,23 @@ namespace Shahzeb.Model
         }
         private int employeeId;
 
+
+
+
+
+
+
         public int EmployeeId
         {
             get { return employeeId; }
             set { employeeId = value; OnPropertyChanged("EmployeeId"); }
         }
         private string fristname;
+
+
+
+
+
 
         public string Fristname
         {
