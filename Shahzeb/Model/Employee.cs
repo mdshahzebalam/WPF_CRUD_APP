@@ -54,6 +54,11 @@ namespace Shahzeb.Model
             set { lastname = value; OnPropertyChanged("Lastname"); }
         }
 
+
+
+
+
+
         private string emailId;
 
         public string EmailId
