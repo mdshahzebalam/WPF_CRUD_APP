@@ -92,6 +92,10 @@ namespace Shahzeb.Model
 
         private string dateOfBirth;
         public string DateOfBirth
+
+
+
+
         {
             get { return dateOfBirth; }
             set { dateOfBirth = value; OnPropertyChanged("DateOfBirth"); }
