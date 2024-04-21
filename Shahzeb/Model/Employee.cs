@@ -46,7 +46,12 @@ namespace Shahzeb.Model
             get { return fristname; }
             set { fristname = value; OnPropertyChanged("Fristname"); }
         }
+
+
+
         private string lastname;
+
+
 
 
 
