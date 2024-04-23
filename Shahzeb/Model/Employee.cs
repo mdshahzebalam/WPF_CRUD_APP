@@ -45,6 +45,12 @@ namespace Shahzeb.Model
         {
             get { return fristname; }
             set { fristname = value; OnPropertyChanged("Fristname"); }
+
+
+
+
+
+
         }
 
 
