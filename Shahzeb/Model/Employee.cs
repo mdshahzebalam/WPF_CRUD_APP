@@ -47,6 +47,15 @@ namespace Shahzeb.Model
             set { fristname = value; OnPropertyChanged("Fristname"); }
 
 
+
+
+
+            #region pp
+
+
+
+            #endregion
+
             #region hello
 
 
