@@ -122,7 +122,21 @@ namespace Shahzeb.Model
 
 
             get { return lastname; }
+
+
+
+
+
+
+
             set { lastname = value; OnPropertyChanged("Lastname"); }
+
+
+
+
+
+
+
 
 
 
