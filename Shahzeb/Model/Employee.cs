@@ -177,6 +177,10 @@ namespace Shahzeb.Model
         private string location;
 
         public string Location
+
+
+
+
         {
             get { return location; }
             set { location = value; OnPropertyChanged("Location"); }
