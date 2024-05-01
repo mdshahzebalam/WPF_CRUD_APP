@@ -183,6 +183,11 @@ namespace Shahzeb.Model
 
         {
             get { return location; }
+
+
+
+
+
             set { location = value; OnPropertyChanged("Location"); }
         }
 
