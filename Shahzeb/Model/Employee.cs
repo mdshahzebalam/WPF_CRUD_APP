@@ -206,6 +206,13 @@ namespace Shahzeb.Model
 
 
             get { return dateOfBirth; }
+
+
+
+
+
+
+
             set { dateOfBirth = value; OnPropertyChanged("DateOfBirth"); }
 
 
