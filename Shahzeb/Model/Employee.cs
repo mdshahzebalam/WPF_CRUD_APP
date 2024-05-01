@@ -188,7 +188,12 @@ namespace Shahzeb.Model
 
 
 
-            set { location = value; OnPropertyChanged("Location"); }
+            set { location = value; OnPropertyChanged("Location"); 
+            
+            
+            
+            
+            }
         }
 
         private string dateOfBirth;
